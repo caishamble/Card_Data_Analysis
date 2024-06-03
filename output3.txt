@@ -1,0 +1,112 @@
+
+Enter cards file name: card_data_small.csv
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 3
+
+Enter decklist filename: kashsisters_meta_deck.ydk
+
+Search results
+Name                                              Type                          Race                Archetype                               TCGPlayer   
+S:P Little Night                                  Link Monster                  Warrior                                                             0.00
+Exosister Asophiel                                XYZ Monster                   Warrior             Exosister                                       0.14
+Exosister Gibrine                                 XYZ Monster                   Warrior             Exosister                                       0.14
+Terraforming                                      Spell Card                    Normal                                                              0.27
+Exosister Mikailis                                XYZ Monster                   Warrior             Exosister                                       1.25
+Exosister Mikailis                                XYZ Monster                   Warrior             Exosister                                       1.25
+Exosister Sophia                                  Effect Monster                Spellcaster         Exosister                                       1.25
+Exosister Sophia                                  Effect Monster                Spellcaster         Exosister                                       1.25
+Exosister Pax                                     Spell Card                    Quick-Play          Exosister                                       2.17
+Exosister Pax                                     Spell Card                    Quick-Play          Exosister                                       2.17
+Exosister Pax                                     Spell Card                    Quick-Play          Exosister                                       2.17
+Infinite Impermanence                             Trap Card                     Normal                                                              9.34
+Infinite Impermanence                             Trap Card                     Normal                                                              9.34
+Infinite Impermanence                             Trap Card                     Normal                                                              9.34
+Pot of Prosperity                                 Spell Card                    Normal              Greed                                          35.52
+Pot of Prosperity                                 Spell Card                    Normal              Greed                                          35.52
+
+Totals                                                                                                                                            111.12
+
+The price of the least expensive card(s) is 0.00
+	S:P Little Night
+
+The price of the most expensive card(s) is 35.52
+	Pot of Prosperity
+	Pot of Prosperity
+
+The price of the median card(s) is 2.17
+	Exosister Pax
+	Exosister Pax
+	Exosister Pax
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 3
+
+Enter decklist filename: yugi_dsod_deck.ydk
+
+Search results
+Name                                              Type                          Race                Archetype                               TCGPlayer   
+Magic Cylinder                                    Trap Card                     Normal                                                              0.10
+Dimension Sphinx                                  Trap Card                     Continuous          Sphinx                                          0.16
+Silent Swordsman LV7                              Effect Monster                Warrior             Silent Swordsman                                0.16
+Silver Gadget                                     Effect Monster                Machine             Gadget                                          0.20
+Spiritual Swords of Revealing Light               Trap Card                     Continuous                                                          0.23
+Clear Kuriboh                                     Effect Monster                Fairy               Kuriboh                                         0.31
+
+Totals                                                                                                                                              1.16
+
+The price of the least expensive card(s) is 0.10
+	Magic Cylinder
+
+The price of the most expensive card(s) is 0.31
+	Clear Kuriboh
+
+The price of the median card(s) is 0.20
+	Silver Gadget
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 3
+
+Enter decklist filename: kaiba_dsod_deck.ydk
+
+Search results
+Name                                              Type                          Race                Archetype                               TCGPlayer   
+Induced Explosion                                 Trap Card                     Normal                                                              0.16
+Dragon's Fighting Spirit                          Spell Card                    Quick-Play                                                          0.21
+Pandemic Dragon                                   Effect Monster                Dragon                                                              0.22
+Majesty with Eyes of Blue                         Spell Card                    Quick-Play          Blue-Eyes                                       0.23
+Called by the Grave                               Spell Card                    Quick-Play                                                          0.61
+Blue-Eyes Solid Dragon                            Effect Monster                Dragon              Blue-Eyes                                       0.69
+Return of the Dragon Lords                        Spell Card                    Normal                                                              5.07
+
+Totals                                                                                                                                              7.19
+
+The price of the least expensive card(s) is 0.16
+	Induced Explosion
+
+The price of the most expensive card(s) is 5.07
+	Return of the Dragon Lords
+
+The price of the median card(s) is 0.23
+	Majesty with Eyes of Blue
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 4
+
+Thanks for your support in Yu-Gi-Oh! TCG

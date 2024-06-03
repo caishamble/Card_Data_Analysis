@@ -1,0 +1,88 @@
+
+Enter cards file name: it's time to D-D-D-D-Duel!
+
+File not Found. Please try again!
+
+Enter cards file name: card_data
+
+File not Found. Please try again!
+
+Enter cards file name: card_data_small.csv
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 5
+
+Invalid option. Please try again!
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: a
+
+Invalid option. Please try again!
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 2
+
+Enter query: Alien
+
+Enter category to search: abc
+
+Incorrect category was selected!
+
+Enter category to search: 1
+
+Incorrect category was selected!
+
+Enter category to search: Race
+
+Search results
+
+There are no cards with 'Alien' in the 'race' category.
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 2
+
+Enter query: Dark Magician
+
+Enter category to search: name
+
+Search results
+
+There are 1 cards with 'Dark Magician' in the 'name' category.
+Name                                              Type                          Race                Archetype                               TCGPlayer   
+Dark Magician the Dragon Knight                   Fusion Monster                Dragon              Dark Magician                                   0.93
+
+Totals                                                                                                                                              0.93
+
+The price of the least expensive card(s) is 0.93
+	Dark Magician the Dragon Knight
+
+The price of the most expensive card(s) is 0.93
+	Dark Magician the Dragon Knight
+
+The price of the median card(s) is 0.93
+	Dark Magician the Dragon Knight
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 4
+
+Thanks for your support in Yu-Gi-Oh! TCG

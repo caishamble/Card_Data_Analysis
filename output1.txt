@@ -1,0 +1,104 @@
+
+Enter cards file name: card_data_tiny.csv
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 1
+
+There are 257 cards in the dataset.
+Name                                              Type                          Race                Archetype                               TCGPlayer   
+Acid Crawler                                      Normal Monster                Insect                                                              0.00
+Angel Ring                                        Spell Card                    Equip                                                               0.00
+Attack Guidance Armor                             Trap Card                     Normal                                                              0.00
+B. Dragon Jungle King                             Normal Monster                Dragon                                                              0.00
+Beautiful Beast Trainer                           Normal Monster                Warrior                                                             0.00
+Crystron Token                                    Token                         Machine             Crystron                                        0.00
+Fireball Token                                    Token                         Pyro                                                                0.00
+Minomushi Warrior                                 Normal Monster                Rock                                                                0.00
+Nanana                                            Spell Card                    Normal                                                              0.00
+Phantom Ghost                                     Normal Monster                Zombie                                                              0.00
+Rock Spirit                                       Normal Monster                Spellcaster                                                         0.00
+Shuttleroid                                       Effect Monster                Machine             Roid                                            0.00
+T.G. - Close                                      Trap Card                     Counter             T.G.                                            0.00
+Pazuzule                                          Pendulum Effect Monster       Fiend                                                               0.02
+Disposable Learner Device                         Spell Card                    Equip                                                               0.03
+Extraceratops                                     Effect Monster                Warrior                                                             0.03
+Level Retuner                                     Trap Card                     Normal                                                              0.03
+Pyrotech Mech - Shiryu                            Effect Monster                Pyro                                                                0.03
+Sour Scheduling - Red Vinegar Vamoose             Trap Card                     Continuous                                                          0.04
+Tutan Mask                                        Trap Card                     Counter                                                             0.04
+Darklord Uprising                                 Trap Card                     Normal              Darklord                                        0.05
+Guardragon Corewakening                           Trap Card                     Continuous          Guardragon                                      0.05
+Shattered Axe                                     Trap Card                     Continuous                                                          0.05
+Sky Scourge Cidhels                               Effect Monster                Fiend               Sky Scourge                                     0.05
+Spatial Collapse                                  Trap Card                     Continuous                                                          0.05
+Abyss Actor - Super Producer                      Link Monster                  Fiend               Abyss Actor                                     0.06
+Beaver Warrior                                    Normal Monster                Beast-Warrior                                                       0.06
+Chain Ignition                                    Trap Card                     Continuous                                                          0.06
+Cost Down                                         Spell Card                    Normal                                                              0.06
+Cyberse Sage                                      Ritual Effect Monster         Cyberse             Cyber                                           0.06
+Dowsing Fusion                                    Spell Card                    Normal                                                              0.06
+Grappler Angler                                   Tuner Monster                 Warrior                                                             0.06
+Horn of Olifant                                   Trap Card                     Normal              Roland                                          0.06
+Rush Warrior                                      Effect Monster                Warrior                                                             0.06
+War Rock Big Blow                                 Trap Card                     Normal              War Rock                                        0.06
+Anchamoufrite                                     Pendulum Effect Monster       Spellcaster                                                         0.07
+Hyper Hammerhead                                  Effect Monster                Dinosaur                                                            0.07
+Man Eater                                         Normal Monster                Plant                                                               0.07
+Meklord Emperor Wisel                             Effect Monster                Machine             Meklord                                         0.07
+Number 79: Battlin' Boxer Nova Kaiser             XYZ Monster                   Warrior             Battlin' Boxer                                  0.07
+The Phantom Knights of Stained Greaves            Effect Monster                Warrior             Phantom Knights                                 0.07
+Zohah, the Ogdoadic Boundless                     Effect Monster                Reptile             Ogdoadic                                        0.07
+Amazoness Augusta                                 Fusion Monster                Warrior             Amazoness                                       0.08
+Blackwing - Twin Shadow                           Trap Card                     Normal              Blackwing                                       0.08
+D/D/D Rebel King Leonidas                         Pendulum Effect Monster       Fiend               D/D                                             0.08
+Gravity Controller                                Link Monster                  Psychic                                                             0.08
+Infernity Wildcat                                 Tuner Monster                 Fiend               Infernity                                       0.08
+Laser Cannon Armor                                Spell Card                    Equip                                                               0.08
+Seventh Eternity                                  Trap Card                     Continuous          Seven Emperors                                  0.08
+Shine Knight                                      Effect Monster                Warrior                                                             0.08
+
+Totals                                                                                                                                              2.20
+
+The price of the least expensive card(s) is 0.00
+	Acid Crawler
+	Angel Ring
+	Attack Guidance Armor
+	B. Dragon Jungle King
+	Beautiful Beast Trainer
+	Crystron Token
+	Fireball Token
+	Minomushi Warrior
+	Nanana
+	Phantom Ghost
+	Rock Spirit
+	Shuttleroid
+	T.G. - Close
+
+The price of the most expensive card(s) is 28.23
+	Guiding Quem, the Virtuous
+
+The price of the median card(s) is 0.18
+	Alligator's Sword
+	Altar for Tribute
+	Batteryman D
+	Boo-Boo Game
+	Change Slime
+	Feather Shot
+	Fishborg Launcher
+	Humpty Grumpty
+	Inzektor Gauntlet
+	Psi-Curse
+	The Phantom Knights of Cursed Javelin
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 4
+
+Thanks for your support in Yu-Gi-Oh! TCG

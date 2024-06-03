@@ -1,0 +1,29 @@
+"\nFile not Found. Please try again!"
+
+"{'Name'}{'Type'}{'Race'}{'Archetype'}{'TCGPlayer'}"
+"{}{}{}{}{}"
+"\n{'Totals'}{''}{''}{''}{}"
+
+"\nThe price of the least expensive card(s) is {}"
+"\nThe price of the most expensive card(s) is {}"
+"\nThe price of the median card(s) is {}"
+"\t{}" #display the cards after the search
+
+"\nInvalid option. Please try again!"
+"\nEnter cards file name: "
+"\nThere are {} cards in the dataset."
+"\nEnter query: "
+"\nEnter category to search: "
+"\nIncorrect category was selected!"
+"\nSearch results"
+"\nThere are {} cards with '{}' in the '{}' category."
+"\nThere are no cards with '{}' in the '{}' category."
+"\nEnter decklist filename: "
+"\nThanks for your support in Yu-Gi-Oh! TCG"
+
+MENU = "\nYu-Gi-Oh! Card Data Analysis" \
+           "\n1) Check All Cards" \
+           "\n2) Search Cards" \
+           "\n3) View Decklist" \
+           "\n4) Exit" \
+           "\nEnter option: "

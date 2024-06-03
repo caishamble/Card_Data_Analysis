@@ -1,0 +1,272 @@
+
+Enter cards file name: card_data_small.csv
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 1
+
+There are 2595 cards in the dataset.
+Name                                              Type                          Race                Archetype                               TCGPlayer   
+"The Sinful Spoils Hunter Fiend"                  Spell Card                    Quick-Play          Sinful Spoils                                   0.00
+30,000-Year White Turtle                          Normal Monster                Aqua                                                                0.00
+Akakieisu                                         Normal Monster                Spellcaster                                                         0.00
+Arcana Force XV - The Fiend                       Effect Monster                Fairy               Arcana Force                                    0.00
+Asmo Token                                        Token                         Fairy               Darklord                                        0.00
+Attack Guidance Armor                             Trap Card                     Normal                                                              0.00
+Back Mutation                                     Spell Card                    Normal                                                              0.00
+Battle Eagle Token                                Token                         Machine                                                             0.00
+Bonfire                                           Spell Card                    Normal                                                              0.00
+Brionac, the Dragon of Icy Malevolence            Synchro Monster               Sea Serpent                                                         0.00
+Call of the Haunted (Skill Card)                  Skill Card                    Bonz                                                                0.00
+Candle of Fate                                    Normal Monster                Fiend                                                               0.00
+Centurion Legatia                                 Synchro Monster               Machine             Centurion                                       0.00
+Cocoon of Ultra Evolution (Skill Card)            Skill Card                    Weevil                                                              0.00
+Code Hack                                         Trap Card                     Continuous                                                          0.00
+Compass Token                                     Token                         Machine                                                             0.00
+Deus Token                                        Token                         Fairy               Darklord                                        0.00
+Diabellestarr the Dark Witch                      Effect Monster                Spellcaster         Diabellestarr                                   0.00
+Divine Dragon Token                               Token                         Fish                                                                0.00
+Dokuroizo the Grim Reaper                         Normal Monster                Zombie                                                              0.00
+Dragon Statue                                     Normal Monster                Warrior                                                             0.00
+Drastic Draw                                      Spell Card                    Normal                                                              0.00
+Earthbound Prisoner Line Walker                   Tuner Monster                 Fiend               Earthbound                                      0.00
+Earthbound Prisoner Stone Sweeper                 Effect Monster                Fiend               Earthbound                                      0.00
+Earthbound Servant Geo Kraken                     Fusion Monster                Fiend               Earthbound                                      0.00
+Eva Token                                         Token                         Fiend                                                               0.00
+Fox Token                                         Token                         Zombie                                                              0.00
+Full Armored DARK Lancer                          XYZ Monster                   Aqua                                                                0.00
+Fungi of the Musk                                 Normal Monster                Fiend                                                               0.00
+Garvas                                            Normal Monster                Beast                                                               0.00
+Gate Deeg                                         Normal Monster                Beast                                                               0.00
+Gift Fiend Token                                  Token                         Fiend                                                               0.00
+Goblin Rider Big-Head Gabonga                     XYZ Monster                   Beast-Warrior       Goblin                                          0.00
+Goblin Rider Clutter the Noisy                    Effect Monster                Beast-Warrior       Goblin                                          0.00
+Grand Arrival of the Goblin Riders                Spell Card                    Normal              Goblin                                          0.00
+Grinder Token                                     Token                         Fiend                                                               0.00
+Horus the Black Flame Deity                       Effect Monster                Dragon              Horus                                           0.00
+Hurricail                                         Normal Monster                Spellcaster                                                         0.00
+Hyo                                               Normal Monster                Warrior                                                             0.00
+Ivy Token                                         Token                         Plant                                                               0.00
+Jurrac Token                                      Token                         Dinosaur            Jurrac                                          0.00
+Kaitoptera                                        Effect Monster                Dinosaur                                                            0.00
+Laughing Flower                                   Normal Monster                Plant                                                               0.00
+Lekunga Token                                     Token                         Plant                                                               0.00
+Life Shaver                                       Trap Card                     Continuous                                                          0.00
+Machine Attacker                                  Normal Monster                Machine                                                             0.00
+Magmacho Dragon                                   Effect Monster                Pyro                                                                0.00
+Maize Token                                       Token                         Plant                                                               0.00
+Mech Mole Zombie                                  Normal Monster                Zombie                                                              0.00
+Megirus Light                                     Normal Monster                Fiend                                                               0.00
+
+Totals                                                                                                                                              0.00
+
+The price of the least expensive card(s) is 0.00
+	"The Sinful Spoils Hunter Fiend"
+	30,000-Year White Turtle
+	Akakieisu
+	Arcana Force XV - The Fiend
+	Asmo Token
+	Attack Guidance Armor
+	Back Mutation
+	Battle Eagle Token
+	Bonfire
+	Brionac, the Dragon of Icy Malevolence
+	Call of the Haunted (Skill Card)
+	Candle of Fate
+	Centurion Legatia
+	Cocoon of Ultra Evolution (Skill Card)
+	Code Hack
+	Compass Token
+	Deus Token
+	Diabellestarr the Dark Witch
+	Divine Dragon Token
+	Dokuroizo the Grim Reaper
+	Dragon Statue
+	Drastic Draw
+	Earthbound Prisoner Line Walker
+	Earthbound Prisoner Stone Sweeper
+	Earthbound Servant Geo Kraken
+	Eva Token
+	Fox Token
+	Full Armored DARK Lancer
+	Fungi of the Musk
+	Garvas
+	Gate Deeg
+	Gift Fiend Token
+	Goblin Rider Big-Head Gabonga
+	Goblin Rider Clutter the Noisy
+	Grand Arrival of the Goblin Riders
+	Grinder Token
+	Horus the Black Flame Deity
+	Hurricail
+	Hyo
+	Ivy Token
+	Jurrac Token
+	Kaitoptera
+	Laughing Flower
+	Lekunga Token
+	Life Shaver
+	Machine Attacker
+	Magmacho Dragon
+	Maize Token
+	Mech Mole Zombie
+	Megirus Light
+	Memento Bone Back
+	Memento Goblin
+	Memento Horn Dragon
+	Metabo Token
+	Mini Mare Mare Token
+	Mountain Warrior
+	Muko
+	Nemleria Repette
+	Nightmare Archfiend Token
+	Nightmare Scorpion
+	Orion the Battle King
+	Over Future Fusion
+	Photon Delta Wing
+	Planetary Elegy
+	Plant Token
+	Potato & Chips
+	Power Pro Lady Sisters
+	Qebehsenuef, Aegis of Horus
+	S:P Little Night
+	Sacred Fire King Garunix
+	Samsara Regenerating Lotus
+	Sanctuary of the Fire Kings
+	Security Token
+	Shinobird Token
+	Sinful Spoils of Betrayal - Silvia
+	Sinister Seed Token
+	Siphon Token
+	Solitude
+	Soul Unseal
+	Stand-Up Centurion!
+	Supreme Celestial King Odd-Eyes Arc-Ray Drago
+	Synchar
+	Synchron Token
+	T.G. - Break Limiter
+	T.G. - Close
+	Terminal Offering
+	The Himorogi where Stars Align
+	The Passage of Stars and Frost
+	The Shrine of Serpentine Sight - Snake-Eye
+	The Wandering Doomed
+	Togex
+	Tricky Token
+	Turtle Raccoon
+	Valmonica Scelta
+	Valmonica Versare
+	Vendread Scavenger
+	Waterdragon Fairy
+	Wattaurus
+	White Dolphin
+	White Reincarnation
+	Wicked Dragon with the Ersatz Head
+	Wicked Token
+	Yubel - Das Ewig Liebe Wächter
+	Zanki
+	Zarigun
+
+The price of the most expensive card(s) is 139.92
+	Breath of Light
+
+The price of the median card(s) is 0.20
+	"A" Cell Recombination Device
+	A Hero Lives
+	A/D Changer
+	Abyss Warrior
+	Akz, the Pumer
+	Altergeist Camouflage
+	Arcana Force VI - The Lovers
+	Armor Ninjitsu Art of Freezing
+	Beasts of Phantom
+	Broww, Huntsman of Dark World
+	Bujingi Warg
+	Camelot, Realm of Noble Knights and Noble Arm
+	Card of Sacrifice
+	Cerulean Skyfire
+	Chaos Valkyria
+	Constellar Tellarknights
+	Cubic Causality
+	Cynet Codec
+	D/D Savant Kepler
+	Dark Valkyria
+	Diamond Duston
+	Divine Wind of Mist Valley
+	Dragunity Knight - Barcha
+	Dramaturge of Despia
+	Dunames Dark Witch
+	Exploderokket Dragon
+	Extra Veiler
+	Fake Explosion
+	Fortissimo
+	Gagagaga Magician
+	Gamma the Magnet Warrior
+	Ghostrick Yeti
+	Gravekeeper's Assailant
+	Heart of Clear Water
+	Hermit of Prophecy
+	Hero Barrier
+	Hiro's Shadow Scout
+	Hot Red Dragon Archfiend
+	Igknight Squire
+	Imperial Tombs of Necrovalley
+	Kamion, the Timelord
+	Karakuri Spider
+	Koa'ki Meiru Overload
+	Last Resort
+	Light Effigy
+	Machina Irradiator
+	Magician's Rod
+	Maha Vailo
+	Malevolent Catastrophe
+	Malice Doll of Demise
+	Matriarch of Nephthys
+	Metaphys Executor
+	Mirror Gate
+	Moja
+	Morphtronic Lantron
+	Mudora
+	N.As.H. Knight
+	Necro Gardna
+	Performapal Helpprincess
+	Phantom King Hydride
+	Phantom Magician
+	Photon Veil
+	Proxy Dragon
+	Puppet Plant
+	Revival of Dokurorider
+	Ritual Sealing
+	Rose Paladin
+	Salvage Warrior
+	Scrap Sheen
+	Seven Tools of the Bandit
+	Shining Abyss
+	Shiranui Style Synthesis
+	Silver Gadget
+	Snake Rain
+	Spiritual Energy Settle Machine
+	Stone Statue of the Aztecs
+	Tenma the Sky Star
+	Tierra, Source of Destruction
+	Tiki Curse
+	Twilight Ninja Jogen
+	Twin-Shield Defender
+	Vorse Raider
+	Water of Life
+	Wattbetta
+	Wattwoodpecker
+	World Legacy - "World Wand"
+	Zero Gardna
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 4
+
+Thanks for your support in Yu-Gi-Oh! TCG

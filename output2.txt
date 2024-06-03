@@ -1,0 +1,212 @@
+
+Enter cards file name: card_data_tiny.csv
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 2
+
+Enter query: Alien
+
+Enter category to search: archetype
+
+Search results
+
+There are no cards with 'Alien' in the 'archetype' category.
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 2
+
+Enter query: Blue-Eyes
+
+Enter category to search: archetype
+
+Search results
+
+There are 1 cards with 'Blue-Eyes' in the 'archetype' category.
+Name                                              Type                          Race                Archetype                               TCGPlayer   
+Paladin of White Dragon                           Ritual Effect Monster         Dragon              Blue-Eyes                                       0.32
+
+Totals                                                                                                                                              0.32
+
+The price of the least expensive card(s) is 0.32
+	Paladin of White Dragon
+
+The price of the most expensive card(s) is 0.32
+	Paladin of White Dragon
+
+The price of the median card(s) is 0.32
+	Paladin of White Dragon
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 2
+
+Enter query: Stardust
+
+Enter category to search: name
+
+Search results
+
+There are 1 cards with 'Stardust' in the 'name' category.
+Name                                              Type                          Race                Archetype                               TCGPlayer   
+Stardust Xiaolong                                 Effect Monster                Dragon              Stardust                                        0.09
+
+Totals                                                                                                                                              0.09
+
+The price of the least expensive card(s) is 0.09
+	Stardust Xiaolong
+
+The price of the most expensive card(s) is 0.09
+	Stardust Xiaolong
+
+The price of the median card(s) is 0.09
+	Stardust Xiaolong
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 2
+
+Enter query: Spell Card
+
+Enter category to search: type
+
+Search results
+
+There are 40 cards with 'Spell Card' in the 'type' category.
+Name                                              Type                          Race                Archetype                               TCGPlayer   
+Angel Ring                                        Spell Card                    Equip                                                               0.00
+Nanana                                            Spell Card                    Normal                                                              0.00
+Disposable Learner Device                         Spell Card                    Equip                                                               0.03
+Cost Down                                         Spell Card                    Normal                                                              0.06
+Dowsing Fusion                                    Spell Card                    Normal                                                              0.06
+Laser Cannon Armor                                Spell Card                    Equip                                                               0.08
+Staring Contest                                   Spell Card                    Continuous                                                          0.08
+Violet Crystal                                    Spell Card                    Equip                                                               0.08
+World Legacy's Corruption                         Spell Card                    Continuous          World Legacy                                    0.08
+Mimiclay                                          Spell Card                    Normal                                                              0.09
+Crystal Aegis                                     Spell Card                    Normal              Crystal                                         0.10
+Salamangreat Transcendence                        Spell Card                    Quick-Play          Salamangreat                                    0.11
+Tyrant Dino Fusion                                Spell Card                    Quick-Play          Dinowrestler                                    0.11
+Vanquish Soul Dust Devil                          Spell Card                    Quick-Play          Vanquish Soul                                   0.11
+Precious Cards from Beyond                        Spell Card                    Continuous                                                          0.14
+Warrior Elimination                               Spell Card                    Normal                                                              0.16
+Future Glow                                       Spell Card                    Continuous                                                          0.17
+Geargia Change                                    Spell Card                    Quick-Play          Geargia                                         0.17
+Magic Formula                                     Spell Card                    Equip               Dark Magician                                   0.17
+Phantasm Spiral Grip                              Spell Card                    Equip               Phantasm Spiral                                 0.17
+Feather Shot                                      Spell Card                    Normal              Elemental HERO                                  0.18
+Giant Ballpark                                    Spell Card                    Field                                                               0.20
+Harmonic Waves                                    Spell Card                    Normal                                                              0.20
+Photon Veil                                       Spell Card                    Normal              Photon                                          0.20
+Heavy Interlock                                   Spell Card                    Ritual                                                              0.21
+Bait Doll                                         Spell Card                    Normal                                                              0.22
+Sky Striker Mecha - Shark Cannon                  Spell Card                    Quick-Play          Sky Striker                                     0.24
+Nitro Unit                                        Spell Card                    Equip                                                               0.25
+Armor Blast                                       Spell Card                    Normal              Inzektor                                        0.28
+Magician's Salvation                              Spell Card                    Field               Dark Magician                                   0.42
+Morphtronic Accelerator                           Spell Card                    Normal              Morphtronic                                     0.58
+Kashtira Birth                                    Spell Card                    Continuous          Kashtira                                        0.59
+Duel Academy                                      Spell Card                    Field                                                               0.65
+Vengeful Bog Spirit                               Spell Card                    Continuous                                                          0.73
+Lyrilusc - Bird Call                              Spell Card                    Normal              Lyrilusc                                        1.27
+Solar Recharge                                    Spell Card                    Normal              Lightsworn                                      1.28
+Messenger of Peace                                Spell Card                    Continuous                                                          1.48
+Pot of Acquisitiveness                            Spell Card                    Quick-Play          Greed                                           1.48
+Purrely Pretty Memory                             Spell Card                    Quick-Play          Purrely                                        16.48
+Abomination's Prison                              Spell Card                    Normal              Unchained                                      21.61
+
+Totals                                                                                                                                             50.52
+
+The price of the least expensive card(s) is 0.00
+	Angel Ring
+	Nanana
+
+The price of the most expensive card(s) is 21.61
+	Abomination's Prison
+
+The price of the median card(s) is 0.18
+	Feather Shot
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 2
+
+Enter query: Warrior
+
+Enter category to search: race
+
+Search results
+
+There are 33 cards with 'Warrior' in the 'race' category.
+Name                                              Type                          Race                Archetype                               TCGPlayer   
+Beautiful Beast Trainer                           Normal Monster                Warrior                                                             0.00
+Extraceratops                                     Effect Monster                Warrior                                                             0.03
+Beaver Warrior                                    Normal Monster                Beast-Warrior                                                       0.06
+Grappler Angler                                   Tuner Monster                 Warrior                                                             0.06
+Rush Warrior                                      Effect Monster                Warrior                                                             0.06
+Number 79: Battlin' Boxer Nova Kaiser             XYZ Monster                   Warrior             Battlin' Boxer                                  0.07
+The Phantom Knights of Stained Greaves            Effect Monster                Warrior             Phantom Knights                                 0.07
+Amazoness Augusta                                 Fusion Monster                Warrior             Amazoness                                       0.08
+Shine Knight                                      Effect Monster                Warrior                                                             0.08
+Tactical Espionage Expert                         Effect Monster                Warrior                                                             0.08
+Guardian of the Labyrinth                         Normal Monster                Warrior                                                             0.09
+Nubian Guard                                      Effect Monster                Warrior                                                             0.10
+Muscle Medic                                      Effect Monster                Warrior                                                             0.11
+Mushroom Man #2                                   Effect Monster                Warrior                                                             0.11
+Vision HERO Minimum Ray                           Effect Monster                Warrior             Vision HERO                                     0.11
+Chaos Grepher                                     Effect Monster                Warrior             Chaos                                           0.16
+Shogi Knight                                      Effect Monster                Beast-Warrior                                                       0.16
+The Phantom Knights of Ancient Cloak              Effect Monster                Warrior             Phantom Knights                                 0.16
+The Phantom Knights of Cursed Javelin             XYZ Monster                   Warrior             Phantom Knights                                 0.18
+Noble Knight Iyvanne                              Effect Monster                Warrior             Noble Knight                                    0.19
+Astraltopia                                       Effect Monster                Warrior             Utopic                                          0.21
+Zuijin of the Ice Barrier                         Effect Monster                Warrior             Ice Barrier                                     0.22
+Ignoble Knight of Black Laundsallyn               Effect Monster                Warrior             Noble Knight                                    0.24
+Exiled Force                                      Effect Monster                Warrior                                                             0.25
+Gouki Headbatt                                    Effect Monster                Warrior             Gouki                                           0.25
+Aurkus, Lightsworn Druid                          Effect Monster                Beast-Warrior       Lightsworn                                      0.27
+Samurai Sword Baron                               Effect Monster                Warrior                                                             0.40
+Gilford the Legend                                Effect Monster                Warrior                                                             0.51
+Ansatsu                                           Normal Monster                Warrior                                                             0.54
+Trap Master                                       Flip Effect Monster           Warrior                                                             0.97
+Tri-Brigade Fraktall                              Effect Monster                Beast-Warrior       Tri-Brigade                                     1.12
+Heroic Champion - Kusanagi                        XYZ Monster                   Warrior             Heroic                                          2.12
+Elemental HERO Glow Neos                          Fusion Monster                Warrior             Elemental HERO                                  3.62
+
+Totals                                                                                                                                             12.68
+
+The price of the least expensive card(s) is 0.00
+	Beautiful Beast Trainer
+
+The price of the most expensive card(s) is 3.62
+	Elemental HERO Glow Neos
+
+The price of the median card(s) is 0.16
+	Chaos Grepher
+	Shogi Knight
+	The Phantom Knights of Ancient Cloak
+
+Yu-Gi-Oh! Card Data Analysis
+1) Check All Cards
+2) Search Cards
+3) View Decklist
+4) Exit
+Enter option: 4
+
+Thanks for your support in Yu-Gi-Oh! TCG

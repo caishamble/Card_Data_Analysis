@@ -1,0 +1,14 @@
+it's time to D-D-D-D-Duel!
+card_data
+card_data_small.csv
+5
+a
+2
+Alien
+abc
+1
+Race
+2
+Dark Magician
+name
+4

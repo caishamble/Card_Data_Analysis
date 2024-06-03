@@ -1,0 +1,8 @@
+card_data_small.csv
+3
+kashsisters_meta_deck.ydk
+3
+yugi_dsod_deck.ydk
+3
+kaiba_dsod_deck.ydk
+4

@@ -1,0 +1,8 @@
+card_data_tiny.csv
+1
+2
+Dark Magician
+name
+3
+kashsisters_meta_deck.ydk
+4

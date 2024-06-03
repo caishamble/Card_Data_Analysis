@@ -1,0 +1,18 @@
+card_data_tiny.csv
+2
+Alien
+archetype
+2
+Blue-Eyes
+archetype
+2
+Stardust
+name
+2
+Spell Card
+type
+2
+Warrior
+race
+4
+
